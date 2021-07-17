@@ -1,6 +1,8 @@
 # red-black-tree
 implement rbtree with c
 
+The folder problem is for generating test cases.
+
 ## 5 properties of red black tree
 1. Enery node is either red or black
 2. The root is black

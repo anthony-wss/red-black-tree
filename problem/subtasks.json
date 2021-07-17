@@ -1,0 +1,11 @@
+{
+	"global_validators": ["val.cpp"],
+	"subtasks": {
+		"s1": {
+			"index": 0,
+			"score": 100,
+			"text": ""
+		}
+	}
+}
+
